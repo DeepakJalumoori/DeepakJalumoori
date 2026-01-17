@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Deepak Jalumoori! 
+## 👋 Hi, I'm Deepak Jalmoori! 
 ### 🧠 Aspiring Software Developer | DSA Practitioner | C++ Enthusiast
 
 - 🌱 Currently sharpening my Data Structures & Algorithms skills in **C++**
